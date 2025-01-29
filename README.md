@@ -1,4 +1,4 @@
-# Elastic Stack (ELK) Notes
+# Elastic Stack (ELK) Notes - credits to Timy Sam
 
 ## Introduction to Elastic Stack:
 - **Elastic Stack** consists of:
